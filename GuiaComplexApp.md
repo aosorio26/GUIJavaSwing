@@ -1,4 +1,4 @@
-# Guía detallada: Crear **ComplexApp** en Java Swing con Maven (NetBeans)
+# Guía: Crear **ComplexApp** en Java Swing con Maven (NetBeans)
 
 ## 0. ¿Qué vamos a construir?
 
@@ -1876,7 +1876,7 @@ public class ComplexApp extends javax.swing.JFrame {
 
 ---
 
-# 30. Nota final para el alumno
+# 30. Nota final
 
 En este proyecto, la interfaz gráfica está separada de la lógica matemática.
 
